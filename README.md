@@ -5,4 +5,4 @@ Using open data from Our World in Data, I built an interactive Plotly dashboard 
 * United States started first (13 Dec 2020)
 * Countries with a domestic manufacturing score ≥ 2 began vaccination within 6 weeks of global launch; score-0 nations waited 2–3 months
 * Germany & Mexico closed the primary-dose gap fastest after the US
-* The repository includes the full Python notebook and an HTML dashboard you can open in any browser.
+* The repository includes the full Python notebook and CSV data
